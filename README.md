@@ -49,7 +49,7 @@ npm run typecheck   # TypeScript only
 **Setting → Restore sample data** reloads the 2024 sample ledger.  
 **Setting → Delete my data** wipes transactions, alerts, and uploads.
 
-## What to try (evaluation)
+## What to try 
 
 - Dashboard KPIs, monthly/quarterly trend, donut breakdowns
 - **Budgets** — envelope caps with burn bars; edit monthly limits
@@ -59,11 +59,6 @@ npm run typecheck   # TypeScript only
 - **Export CSV** with column picker
 - **Upload** a CSV (Date, Amount, Category, Status, Name)
 - Switch display currency (USD / EUR / GBP / INR)
-
-### Creativity features
-
-1. **Envelope budgets** — expenses auto-route into People / Ops / Other by keywords; over-budget raises a Message.
-2. **Anomaly flags** — statistical outlier vs counterparty history on ledger rows and Budgets page.
 
 ## Tech stack
 
